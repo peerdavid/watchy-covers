@@ -1,21 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Creator: CorelDRAW -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 210 297">
- <defs>
-  <style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="210mm"
+   height="297mm"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="base.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata20"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1853"
+   inkscape:window-height="1025"
+   id="namedview18"
+   showgrid="false"
+   inkscape:zoom="4.7572176"
+   inkscape:cx="99.703317"
+   inkscape:cy="980.99369"
+   inkscape:window-x="67"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_x0020_1" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
    <![CDATA[
     .str0 {stroke:#1F1A17;stroke-width:0.0762}
     .fil0 {fill:none}
    ]]>
   </style>
  </defs>
- <g id="Ebene_x0020_1">
-  <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0 str0" x="5.5138" y="4.24396" width="35.04" height="48.7359" rx="4.1301" ry="4.1301"/>
-  <rect class="fil0 str0" x="10.2066" y="7.5327" width="26.1343" height="2.26638"/>
-  <rect class="fil0 str0" x="10.2062" y="47.5078" width="26.1343" height="2.26638"/>
-  <rect class="fil0 str0" x="10.2473" y="12.9558" width="26.1836" height="25.9202" rx="2.4969" ry="2.4969"/>
+ <g
+   id="Ebene_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <rect
+   class="fil0 str0"
+   x="5.5138"
+   y="4.24396"
+   width="35.04"
+   height="48.7359"
+   rx="4.1301"
+   ry="4.1301"
+   id="rect7" />
+  <rect
+   class="fil0 str0"
+   x="10.206133"
+   y="7.5322328"
+   width="25.653765"
+   height="2.2673142"
+   id="rect9"
+   style="fill:none;stroke:#1f1a17;stroke-width:0.07526579" />
+  <rect
+   class="fil0 str0"
+   x="10.205756"
+   y="47.507359"
+   width="25.686296"
+   height="2.267267"
+   id="rect11"
+   style="fill:none;stroke:#1f1a17;stroke-width:0.07531303" />
+  <rect
+   class="fil0 str0"
+   x="10.246748"
+   y="13.01473"
+   width="25.592001"
+   height="25.861822"
+   rx="2.4245734"
+   ry="2.4912767"
+   id="rect13"
+   style="fill:none;stroke:#1f1a17;stroke-width:0.07500368" />
  </g>
 </svg>
